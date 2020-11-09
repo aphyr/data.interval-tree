@@ -15,11 +15,11 @@ Interval Treeset built on [data.finger-tree](https://github.com/clojure/data.fin
 Largely based on the implementation described in the
 [original paper](http://www.cs.ox.ac.uk/ralf.hinze/publications/FingerTrees.pdf).
 
-[![Build Status](https://travis-ci.org/dthume/data.interval-tree.svg?branch=master)](https://travis-ci.org/dthume/data.interval-tree)
+[![Build Status](https://travis-ci.com.aphyr/data.interval-tree.svg?branch=master)](https://travis-ci.com.aphyr/data.interval-tree)
 
 ## Leiningen
 
-[![Clojars Project](http://clojars.org/org.dthume/data.interval-treeset/latest-version.svg)](http://clojars.org/org.dthume/data.interval-treeset)
+[![Clojars Project](http://clojars.org/com.aphyr/data.interval-treeset/latest-version.svg)](http://clojars.org/com.aphyr/data.interval-treeset)
 
 ## API Docs
 
