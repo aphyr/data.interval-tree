@@ -304,7 +304,7 @@ resulting selection."))
     (size [this] (count this))
     (toArray [this]
       (clojure.lang.RT/seqToArray tree))
-    (toArray [this a]
+    (^objects toArray [this ^objects a]
       (clojure.lang.RT/seqToPassedArray tree a))
   java.util.SortedSet
   (last [this]
