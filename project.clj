@@ -1,4 +1,4 @@
-(defproject com.aphyr/data.interval-treeset "0.1.4-SNAPSHOT"
+(defproject com.aphyr/data.interval-treeset "0.1.4"
   :description "Interval Treeset based on finger trees."
   :url "http://github.com/aphyr/data.interval-tree"
   :license {:name "Eclipse Public License 1.0"
